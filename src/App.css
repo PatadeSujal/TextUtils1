@@ -1,0 +1,35 @@
+.themeIcon{
+  margin-top:5px;
+  width:50px;
+ 
+}
+.modeBtn{
+  margin-top:5px;
+  margin-right:7px;
+  border-radius:50%
+}
+.theme{
+  height: 20px;
+  margin-right: 120px;
+  margin-left:10px;
+  border-radius: 50%;
+  gap: 20px;
+}
+.themeA{
+  background: linear-gradient( #240750, #344C64,#577B8D,#57A6A1);
+  width:15px;
+}
+.themeB{
+  background: linear-gradient( #4C0033, #790252,#AF0171,#F97300);
+  width:15px;
+}
+.themeC{
+  background: linear-gradient( #49243E, #704264,#BB8493,#DBAFA0);
+  width:15px;
+}
+.main-container{
+  width:100vw;
+}
+/* .buttons{
+  margin-right:20px;
+} */
